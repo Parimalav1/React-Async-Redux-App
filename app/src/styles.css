@@ -1,0 +1,59 @@
+.App {
+    
+    background-image: url('https://images.unsplash.com/photo-1594725364617-b2797f95a50e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;   
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    width: 50%;
+    margin: 100px 25%;
+    padding: 36px;
+    height: 50vh;
+}
+
+#header {
+    font-size: 4rem;
+    color: red;
+    font-family: monospace;
+}
+
+#number {
+    color: black;
+}
+
+.text {
+    color: black;
+    font-size: 2rem;
+    font-family: monospace;
+}
+
+#enter {
+    font-size: 2rem;
+    font-family: monospace;
+}
+
+.fetchBtn {
+    padding: 6px 8px;
+  font-size: 16px;
+  background: none;
+  color: white;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
+.fetchBtn:hover {
+  background-color: #ffffff22;
+  color: black;
+}
+
+.input {
+    font-size: 1.5rem;
+    padding: 6px;
+  background: none;
+  border: none;
+  color: white;
+  border-bottom: 1px solid white;
+  margin-top: 0;
+  margin-right: 8px;
+    text-align: center;
+}
